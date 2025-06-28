@@ -2,7 +2,7 @@
 
 ## Step by step to start the application
 
-**Installation using Composer**
+**Installation using Docker**
 
 docker-compose up -d --build
 
