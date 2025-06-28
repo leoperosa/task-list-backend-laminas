@@ -34,7 +34,7 @@ The API requires authentication. Send a Basic Auth with **user:1234** in the Aut
 
 **Endpoints**
 
-The API runs on port 8081. To access it, use http://localhost:8082/login
+The API runs on port 8081. To access it, use http://localhost:8081
 
 
 POST http://localhost:8081/api/task
